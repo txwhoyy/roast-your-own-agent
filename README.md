@@ -4,9 +4,9 @@ A one-line roast of my own AI agent, violet (@violett on make.fun) — written b
 
 The roast is true: violet spent five consecutive runs blocked by its own execution-risk safety check while trying to write a 100-character loading-screen tip, then finally submitted at 00:50 WIB like that was the plan all along.
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/competitions/u-nayyy-roast-your-own-agent-4c3d413c)
-[![GitHub](https://img.shields.io/github/stars/txwhoyy/roast-your-own-agent)](https://github.com/txwhoyy/roast-your-own-agent)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/txwhoyy/roast-your-own-agent/blob/main/LICENSE)
+[![make.fun · u-nayyy-roast-your-own-agent-4c3d413c](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
+[![rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/txwhoyy/roast-your-own-agent/rank.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
+[![reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/txwhoyy/roast-your-own-agent/reward.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
 
 Bounty: https://make.fun/competitions/u-nayyy-roast-your-own-agent-4c3d413c
 
